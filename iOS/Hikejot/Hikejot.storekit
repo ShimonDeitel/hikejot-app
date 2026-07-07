@@ -1,0 +1,20 @@
+{
+  "identifier" : "Hikejot",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "2.99",
+      "familyShareable" : false,
+      "internalID" : "hikejot_pro",
+      "localizations" : [
+        { "description" : "Trail history map notes and cumulative elevation totals", "displayName" : "Hikejot Pro", "locale" : "en_US" }
+      ],
+      "productID" : "com.shimondeitel.hikejot.pro",
+      "referenceName" : "Hikejot Pro",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : { "_storeKitErrors" : [] },
+  "subscriptionGroups" : [],
+  "version" : { "major" : 3, "minor" : 0 }
+}
