@@ -35,7 +35,6 @@ targets:
     platform: iOS
     sources:
       - path: HikejotTests
-      - path: Hikejot.storekit
     dependencies:
       - target: Hikejot
     settings:
